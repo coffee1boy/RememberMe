@@ -1,0 +1,1 @@
+公共库，主要有各种base，各种UI组件，自定义组件，公用的Activity，公用的Fragment和公用的Utils等等，依赖lib_coremodel库
